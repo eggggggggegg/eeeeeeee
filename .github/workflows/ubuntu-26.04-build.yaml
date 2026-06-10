@@ -10,7 +10,7 @@ jobs:
 
     snapshot:
       image-name: ubuntu-26.04
-      version: 1.0.0
+      version: 1.*
 
     steps:
       - name: Update package lists
